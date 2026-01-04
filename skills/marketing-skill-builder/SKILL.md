@@ -85,6 +85,13 @@ For each content type the skill will handle, define:
 
 See `references/marketing-content-types.md` for channel-specific guidance.
 
+For psychological tactics and engagement hacks, see `references/marketing-tactics.md`. This covers:
+- Hook patterns that stop the scroll
+- The Job Description Hack for B2B copy
+- Identity marketing (verb to noun conversion)
+- Engagement triggers and CTAs
+- Visual hierarchy and formatting tricks
+
 ### Step 4: Skill Assembly
 
 Build the skill package with this structure:
@@ -152,5 +159,6 @@ This creates a `.skill` file the marketing team can install and use.
 | Trigger conditions | Frontmatter description | When to use the skill |
 | Voice guidelines | references/brand-voice.md | Tone, vocabulary, personality |
 | Anti-AI rules | references/writing-rules.md | Avoid robotic patterns |
+| Engagement tactics | references/marketing-tactics.md | Hooks, psychology, platform hacks |
 | Content templates | examples/[type].md | Format and structure per channel |
 | Channel specifics | examples/[type].md | Platform constraints and norms |
