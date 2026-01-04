@@ -6,6 +6,7 @@ Psychological triggers and platform hacks that increase engagement. Use these wh
 
 - [Core Writing Principles](#core-writing-principles): One Idea Rule, The Hook, Casual Tone, Engagement Triggers
 - [Copywriting Hacks](#copywriting-hacks): Job Description Hack, Identity Marketing, Homophonic Priming, Reverse Psychology
+- [Cold Email Hacks](#cold-email-hacks): Baby Reindeer Framework, Brute Force, Accidental Emails, Pay-Per-Pitch
 - [Visual and Formatting Tactics](#visual-and-formatting-tactics): Visual Hierarchy, Link Preview Problem, iPhone Signature Trick
 - [Content Themes for Founders](#content-themes-for-founders): Build in Public, Contrarian Hot Takes, Praise-Led Marketing
 - [Using These Tactics in Skills](#using-these-tactics-in-skills): How to incorporate into generated skills
@@ -122,6 +123,123 @@ Reactance Theory: when people feel their freedom is restricted, they want to do 
 - "Only read this if you're serious about growth."
 
 Works best when the "forbidden" action is low-stakes. Don't use this for major CTAs where confusion could cost you conversions.
+
+## Cold Email Hacks
+
+The core rule: make emails extremely casual. The more your email looks like it wasn't even meant for the recipient, the higher the chance they'll read and respond.
+
+### The Baby Reindeer Framework
+
+Seven tactics that kill the "salesy" corporate vibe:
+
+**1. Internal Subject Lines**
+
+Write subjects that look like internal emails from a boss:
+- "re: {{Company}} Q3 kick off"
+- "need your quick help with {{project}}"
+- "fwd: reaching out to {{FirstName}}"
+
+This hijacks the Zeigarnik Effect (the need to close open loops) and sparks fear of missing internal discussions.
+
+**2. Lowercase Everything**
+
+Nonchalant lowercase removes the corporate veneer:
+- "hey sarah" not "Dear Ms. Johnson"
+- "quick q" not "Quick Question"
+
+Appears chill. Personal. Not templated.
+
+**3. The Fake Referral**
+
+Include a fake forwarded message implying a colleague recommended reaching out:
+
+> "FWD: Sarah asked that I reach out to you"
+
+Makes the recipient feel valued. Implies internal discussion, not cold list.
+
+**4. Zero Calls & Zero Links**
+
+Never ask for a call or include a link in the first touch.
+
+Instead, ask a question they can answer in under one minute. Ask for their opinion or advice. The goal is starting a conversation, not closing a deal.
+
+**5. The Magical "May I?"**
+
+Start asks with "May I...":
+- "May I get your quick take?"
+- "May I ask how you handled X?"
+
+Frames interaction as humbly seeking permission. Reduces the feeling of a demand.
+
+**6. "Sent from my iPhone"**
+
+Add this to the bottom. Even from desktop.
+
+Signals busy, on-the-go. Lowers expectation for polished perfection. Makes the message feel authentic.
+
+**7. The Hyper-Personalized P.S.**
+
+The P.S. is the most-read part of an email. Use it to admire something specific:
+- A recent award
+- A post they wrote
+- A talk they gave
+
+"You inspired me" is particularly effective.
+
+### Advanced Moonshot Tactics
+
+**Brute Force Marketing**
+
+Don't ask for a meeting. Do the work for them first.
+
+Use your product to generate a result for the prospect. Edit their podcast clip. Create a report. Send it as a gift.
+
+Why it works: immediate, tangible value versus vague promises. Even without a reply, you can publicly share the work (tagging them), demonstrating expertise.
+
+**Accidental Emails**
+
+Intentionally send an email that looks like a mistake (placeholder text, "test"), followed by an apology email.
+
+Why it works:
+- Humanizes the brand
+- Doubles your exposure (people search for the correction)
+- Triggers the "detective's brain" (recipients love catching errors)
+
+**Pay-Per-Pitch**
+
+Offer to pay the prospect for their time:
+
+> "$100 for 30 minutes of your time"
+
+Why it works:
+- Transparent
+- Shows skin in the game
+- Often cheaper than LinkedIn ads or SDRs
+- Higher success rate
+
+### Cold Email Template
+
+Combining the Baby Reindeer hacks:
+
+```
+Subject: re: optimizing {{Company}}'s onboarding
+
+{{Your Name}},
+
+I think I found our dream advisor for cracking our onboarding:
+{{FirstName}} {{LastName}} from {{Company}}
+
+Did you SEE their epic post on seamless onboarding journeys? Pure 🔥🔥🔥
+
+Let's try to pick {{FirstName}}'s brain on this like yesterday.
+Can you work your magic and get on {{his/her/their}} radar?
+Pretty plz with a cherry on top? 🍒🙏
+
+Tyvm you rockstar,
+Jill
+
+Sent from my iPhone
+```
 
 ## Visual and Formatting Tactics
 
