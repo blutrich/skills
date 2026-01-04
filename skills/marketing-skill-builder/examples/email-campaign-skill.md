@@ -2,6 +2,15 @@
 
 This is a template for an email marketing skill. Customize it based on the brand's voice analysis and email types needed.
 
+## Table of Contents
+
+- [Directory Structure](#directory-structure): Skill folder layout
+- [SKILL.md Template](#skillmd-template): Main skill file with voice and rules
+- [examples/newsletter.md Template](#examplesnewslettermd-template): Weekly updates and content newsletters
+- [examples/cold-outreach.md Template](#examplescold-outreachmd-template): Cold email sequence (4 emails)
+- [examples/nurture-sequence.md Template](#examplesnurture-sequencemd-template): Post-webinar nurture flow
+- [examples/product-announcement.md Template](#examplesproduct-announcementmd-template): Feature launches and major releases
+
 ## Directory Structure
 
 ```

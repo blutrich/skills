@@ -2,6 +2,14 @@
 
 Psychological triggers and platform hacks that increase engagement. Use these when building content templates for marketing skills.
 
+## Table of Contents
+
+- [Core Writing Principles](#core-writing-principles): One Idea Rule, The Hook, Casual Tone, Engagement Triggers
+- [Copywriting Hacks](#copywriting-hacks): Job Description Hack, Identity Marketing, Homophonic Priming, Reverse Psychology
+- [Visual and Formatting Tactics](#visual-and-formatting-tactics): Visual Hierarchy, Link Preview Problem, iPhone Signature Trick
+- [Content Themes for Founders](#content-themes-for-founders): Build in Public, Contrarian Hot Takes, Praise-Led Marketing
+- [Using These Tactics in Skills](#using-these-tactics-in-skills): How to incorporate into generated skills
+
 ## Core Writing Principles
 
 ### One Idea Rule

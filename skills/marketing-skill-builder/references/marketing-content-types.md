@@ -2,6 +2,14 @@
 
 This reference covers common marketing content types. Use it when mapping content needs for a marketing skill.
 
+## Table of Contents
+
+- [Social Media](#social-media): LinkedIn, Twitter/X, Instagram
+- [Email Marketing](#email-marketing): Newsletter, Cold Email, Sales Sequence
+- [Blog Content](#blog-content): How-to Posts, Listicles, Thought Leadership
+- [Ad Copy](#ad-copy): Facebook/Instagram, Google, LinkedIn
+- [Product Launch](#product-launch): Announcement, Teaser Sequence
+
 ## Social Media
 
 ### LinkedIn

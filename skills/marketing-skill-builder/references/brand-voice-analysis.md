@@ -2,6 +2,17 @@
 
 Use this framework to extract voice patterns from sample content. The goal: capture what makes this brand sound like itself.
 
+## Table of Contents
+
+- [Sample Requirements](#sample-requirements): What to ask for
+- [Analysis Categories](#analysis-categories): The five areas to examine
+  - [1. Rhythm and Cadence](#1-rhythm-and-cadence): Sentence length, fragments, paragraphs
+  - [2. Vocabulary Profile](#2-vocabulary-profile): Reading level, jargon, contractions
+  - [3. Personality Markers](#3-personality-markers): Humor, perspective, emotional range
+  - [4. Structural Patterns](#4-structural-patterns): Openings, closings, transitions
+  - [5. Distinctive Phrases](#5-distinctive-phrases): Signature expressions, banned vocabulary
+- [Output Format](#output-format): Voice guide template
+
 ## Sample Requirements
 
 Ask for 3-5 pieces of content that represent the brand at its best. More is fine. Less makes analysis unreliable.

@@ -2,6 +2,19 @@
 
 This document contains rules that make AI-generated content sound human. Copy relevant sections into every marketing skill you create.
 
+## Table of Contents
+
+- [Why This Matters](#why-this-matters): Perplexity and burstiness explained
+- [The Banned Word List](#the-banned-word-list): Words that signal AI authorship
+- [Sentence Rhythm Rules](#sentence-rhythm-rules): Variance, fragments, long sentences
+- [Punctuation Rules](#punctuation-rules): Em-dash prohibition, contractions
+- [Eliminate Hedging](#eliminate-hedging): Kill wishy-washy phrases
+- [Specificity Requirements](#specificity-requirements): Concrete details and numbers
+- [Opening and Closing Rules](#opening-and-closing-rules): What to avoid, what works
+- [The Personal Touch](#the-personal-touch): First person, imperfection signals
+- [Quick Checklist](#quick-checklist): Pre-publish verification
+- [Copying Into Generated Skills](#copying-into-generated-skills): How to include in output
+
 ## Why This Matters
 
 AI detection tools measure two things:

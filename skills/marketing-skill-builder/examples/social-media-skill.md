@@ -2,6 +2,14 @@
 
 This is a template for a social media marketing skill. Customize it based on the brand's voice analysis and platform needs.
 
+## Table of Contents
+
+- [Directory Structure](#directory-structure): Skill folder layout
+- [SKILL.md Template](#skillmd-template): Main skill file with voice and rules
+- [examples/linkedin.md Template](#exampleslinkedinmd-template): Hook + Story format, examples
+- [examples/twitter.md Template](#examplestwittermd-template): Single tweets and threads
+- [examples/instagram.md Template](#examplesinstagrammd-template): Captions for carousels and reels
+
 ## Directory Structure
 
 ```
